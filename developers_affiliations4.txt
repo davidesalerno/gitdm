@@ -9489,13 +9489,15 @@ davideimola: davide.imola!icloud.com, davideimola!users.noreply.github.com
 	RedCarbon from 2022-09-01
 davidemerritt: comxd!users.noreply.github.com, david.e.merritt!gmail.com, davidemerritt!users.noreply.github.com
 	Microsoft Corporation
-davidesalerno: davidesalerno!users.noreply.github.com
+davidesalerno: davidesalerno!users.noreply.github.com, davide.salerno!gmail.com, dsalerno!redhat.com
 	Altran until 2015-07-01
 	BMC from 2015-07-01 until 2017-12-01
 	SIA S.p.A from 2017-12-01 until 2018-06-01
 	UniCredit from 2018-06-01 until 2020-01-01
 	Generali from 2020-01-01 until 2022-01-01
-	Red Hat Inc. from 2022-01-01
+	Red Hat Inc. from 2022-01-01 until 2024-02-26
+        Intesa Sanpaolo from 2024-02-26 until 2025-09-01
+        Red Hat Inc. from 2025-09-01
 davideschiera: davide.schiera!gmail.com, davideschiera!users.noreply.github.com
 	Sysdig Inc.
 davidewatson: davidewatson!gmail.com, davidewatson!users.noreply.github.com
