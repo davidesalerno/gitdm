@@ -9489,7 +9489,7 @@ davideimola: davide.imola!icloud.com, davideimola!users.noreply.github.com
 	RedCarbon from 2022-09-01
 davidemerritt: comxd!users.noreply.github.com, david.e.merritt!gmail.com, davidemerritt!users.noreply.github.com
 	Microsoft Corporation
-davidesalerno: davidesalerno!users.noreply.github.com
+davidesalerno: davidesalerno!users.noreply.github.com, dsalerno!redhat.com
 	Altran until 2015-07-01
 	BMC from 2015-07-01 until 2017-12-01
 	SIA S.p.A from 2017-12-01 until 2018-06-01
